@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MonkeyApp</string>
+    <string name="feed">Nourir</string>
+    <string name="monkey_informatio">Information</string>
+    <string name="validate">Ok</string>
+    <string name="loading">Loading</string>
+    <string name="monkey_ovverdose">Monkey overdose</string>
+    <string name="error">Network error</string>
+    <string name="text_invalid">Enter your text</string>
+    <string name="banana_message">Vous avez consommer tous vos bananes</string>
+</resources>
